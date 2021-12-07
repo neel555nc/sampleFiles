@@ -1,0 +1,76 @@
+
+//* Processor
+========================================================//
+
+Intel Core I7-11700 -- 31,000/-
+
+//* Motherboard
+========================================================//
+
+ROG Maximus XIII Hero - Intel Z590 ATX - 39,000/-
+Asus Prime Z590-A Motherboard - 22,000 /-
+ASUS ROG Strix Z590-E Gaming - 32,999 /-
+Asus TUF Gaming Z590 Plus WIFI - 22,199 /-
+
+//* Graphics Card
+========================================================//
+
+Asus TUF Gaming RTX 3070 OC 8GB Graphics Card - 60,000 /-
+Gigabyte RTX 3060 Ti Eagle 8GB Graphics Card - 55, 750 /-
+Gigabyte RTX 3070 Ti Vision OC 8GB Graphics Card - 70,000 /-
+
+
+//* Cooler
+========================================================//
+Nzxt KRAKEN X73 RGB - 16,499 /-
+Noctua NH-D15 8500/-
+Cooler Master Hyper 212 LED - 2870 /-
+
+CORSAIR iCUE H150i ELITE CAPELLIX Liquid CPU Cooler
+
+
+//* SSD
+========================================================//
+Western Digital WD Black™ SN850 1TB - 16,913 /-
+Sabrent Rocket 4 Plus 1TB
+Samsung Evo 980 Pro 1TB
+
+//* Ram
+========================================================//
+Corsair Dominator Platinum RGB 32GB (16GBx2) DDR4 3200MHz - 16,500 /-
+
+
+//* SMPS/PSU
+========================================================//
+EVGA 210-GQ-0750-V1 750 GQ, 80+ GOLD 750W 
+
+//* UPS
+========================================================//
+
+
+//* Cabinet
+========================================================//
+
+Full Tower Cabinet
+keyboard
+mouse
+
+
+
+
+
+PROCESSOR - intel core i7 11700 non-k - 35,000 /-
+MOTHERBOARD - ROG Strix Z590-E - Intel Z590 ATX - 34,999 /-
+AIO COOLER - CORSAIR iCUE H150i ELITE CAPELLIX Liquid CPU Cooler - 16950 /-
+SSD - Western Digital WD Black™ SN850 1TB - 16900 /-
+RAM - Corsair Dominator Platinum RGB 32GB (16GBx2) DDR4 3200MHz - 23500 /-
+PSU - Thermaltake toughpower 850W Gold PSU Full moduler - 13500 /-
+CASE - Corsair Graphite 780T White - 16000
+
+
+total = 1,56,850 /-
+
+
+
+
+UPS - APC Smart-UPS 1500VA LCD 230V SMT1500I
